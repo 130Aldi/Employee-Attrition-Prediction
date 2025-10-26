@@ -76,7 +76,7 @@ Faktor berpengaruh terhadap keputusan karyawan untuk keluar:
 
 ## Kesimpulan
 Model machine learning berhasil mengidentifikasi pola attrition dengan tingkat pemisahan yang cukup tinggi (ROC-AUC > 0.9).  
-Hasil ini dapat membantu tim HR untuk:
+Hasilnya dapat digunakan untuk :
 - Mengurangi turnover karyawan dengan fokus pada faktor risiko tinggi (lembur, gaji, kepuasan kerja)
 - Membuat kebijakan retensi yang lebih efisien
 
