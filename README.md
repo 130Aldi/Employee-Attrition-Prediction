@@ -69,7 +69,6 @@ Analisis dilakukan menggunakan **Python (Kaggle Notebook)** dengan tahapan berik
      | ZO618 | 0.841     |
      | JO233 | 0.417     |
 
-   - Nilai `Attrition` adalah **probabilitas** (bukan 0/1 langsung).
 
 ---
 
@@ -85,7 +84,7 @@ Fitur paling berpengaruh terhadap keputusan karyawan untuk keluar:
 
 ---
 
-## 💡 Kesimpulan
+## Kesimpulan
 Model machine learning berhasil mengidentifikasi pola attrition dengan tingkat pemisahan yang cukup tinggi (ROC-AUC > 0.9).  
 Hasil ini dapat membantu tim HR untuk:
 - Mengurangi turnover karyawan dengan fokus pada faktor risiko tinggi (lembur, gaji, kepuasan kerja)
@@ -93,22 +92,16 @@ Hasil ini dapat membantu tim HR untuk:
 
 ---
 
-## 🧠 Teknologi yang Digunakan
-- Python 3.11  
-- pandas, numpy, seaborn, matplotlib  
-- scikit-learn  
-- Jupyter Notebook / Kaggle Notebook  
-
----
-
-## 📦 Struktur Folder
+## Folder
 ```
-📁 EmployeeAttritionProject
+📁 SML_Tugas
 │
+├── requirements.txt
+├── stacking_model.pkl
 ├── train.csv
 ├── test.csv
-├── sample_submission.csv
-├── employee_attrition_notebook.ipynb
+├── submission_stacking_Last3.csv
+├── Bagus_2[1].ipynb
 └── README.md
 ```
 
