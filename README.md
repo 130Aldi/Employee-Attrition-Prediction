@@ -91,18 +91,3 @@ Hasil ini dapat membantu tim HR untuk:
 - Membuat kebijakan retensi yang lebih efisien
 
 ---
-
-## Folder
-```
-📁 SML_Tugas
-│
-├── requirements.txt
-├── stacking_model.pkl
-├── train.csv
-├── test.csv
-├── submission_stacking_Last3.csv
-├── Bagus_2[1].ipynb
-└── README.md
-```
-
----
