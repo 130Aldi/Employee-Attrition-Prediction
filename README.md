@@ -74,8 +74,8 @@ Analisis dilakukan menggunakan **Python (Kaggle Notebook)** dengan tahapan berik
 ---
 
 ## Hasil
-Model terbaik pada percobaan ini adalah **Random Forest Classifier**  
-dengan skor **ROC-AUC ≈ 0.93** pada data validasi.
+Model terbaik pada percobaan ini adalah **...**  
+dengan skor **ROC-AUC ≈ ...** pada data validasi.
 
 Fitur paling berpengaruh terhadap keputusan karyawan untuk keluar:
 - OverTime (Lembur)
