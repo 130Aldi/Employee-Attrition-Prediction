@@ -61,22 +61,12 @@ Analisis dilakukan menggunakan **Python (Kaggle Notebook)** dengan tahapan berik
 
 6. **Submission**  
    - Menggunakan model terbaik untuk memprediksi data `test.csv`  
-   - Menyimpan hasil ke file `submission.csv` dengan format:
-
-     | id    | Attrition |
-     |-------|-----------|
-     | VM684 | 0.092     |
-     | ZO618 | 0.841     |
-     | JO233 | 0.417     |
-
+   - Menyimpan hasil ke file `submission_stacking_Last3.csv`
 
 ---
 
 ## Hasil
-Model terbaik pada percobaan ini adalah **...**  
-dengan skor **ROC-AUC ≈ ...** pada data validasi.
-
-Fitur paling berpengaruh terhadap keputusan karyawan untuk keluar:
+Faktor berpengaruh terhadap keputusan karyawan untuk keluar:
 - OverTime (Lembur)
 - MonthlyIncome (Pendapatan Bulanan)
 - YearsAtCompany (Lama Bekerja)
