@@ -1,7 +1,7 @@
 # Laporan Tugas SML A
 ## Penulis
 **Nama:** Narendra A, Nicholas B, Aldi M 
-**Kelas / NIM:** 014, 011, 130
+**NRP:** 014, 011, 130
 
 ## Employee Attrition Prediction
 **Dataset file:** `train.csv`, `test.csv`, dan `submission_stacking_Last3.csv`
