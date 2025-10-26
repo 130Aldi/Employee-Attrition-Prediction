@@ -26,7 +26,7 @@ File `test.csv` memiliki kolom yang sama **tanpa kolom `Attrition`**.
 
 ---
 
-## ⚙️ Langkah Analisis
+## Langkah Analisis
 Analisis dilakukan menggunakan **Python (Kaggle Notebook)** dengan tahapan berikut:
 
 1. **Exploratory Data Analysis (EDA)**  
