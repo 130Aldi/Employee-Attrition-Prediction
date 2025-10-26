@@ -1,5 +1,5 @@
 # Laporan Tugas SML A
-## Penulis
+## Anggota
 **Nama:** Narendra A, Nicholas B, Aldi M 
 **NRP:** 014, 011, 130
 
